@@ -1,4 +1,4 @@
-# StudentizedOLSClassifier
+# Studentized OLS Classifier
 > This is a custom classifier created using Scikit Learn's project template for custom estimators.
 > This project was inspired by the Enron email dataset where I used a typical studentized OLS process to check for outliers
 > but I was suprised to find that 16 of 17 outliers found were people of interest and this method correctly identified 16 of 19 POI's.  
